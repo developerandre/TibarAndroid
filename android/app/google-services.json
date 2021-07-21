@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095314443134",
+    "project_id": "tibar-togo",
+    "storage_bucket": "tibar-togo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095314443134:android:6b168df524d556de47c12f",
+        "android_client_info": {
+          "package_name": "developer.own.tibar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095314443134-14bbd5kedbsg9esltafd3337ctumrnt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.own.tibar",
+            "certificate_hash": "0dde588945d627ff4ff4684955b392e62178c135"
+          }
+        },
+        {
+          "client_id": "1095314443134-uvtp5c7klmle6nlmbhojn7gdq5peqbr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.own.tibar",
+            "certificate_hash": "3ba1a40737fa0b22da528fc77016fb1c1cb7a4ac"
+          }
+        },
+        {
+          "client_id": "1095314443134-4nc0l73iao1u0mm02o3vsear9rjm7me5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8LfazdCYtrZ3T4zoqJzULFT38zzEOTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095314443134-4nc0l73iao1u0mm02o3vsear9rjm7me5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
